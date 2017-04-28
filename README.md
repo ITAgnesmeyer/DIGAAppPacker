@@ -9,5 +9,7 @@ wurde eine Wrapper-Applikation erstlelt. Mit dem DIGAAppPacker - Tools wird nun 
 
 # Voraussetzungen
 Damit die Assembly ausgeführt wird muss derzeit noch die neutrale Sprache auf Deutsch(de-DE) gesetzt werden.
+Zsätzlich muss in dem Zielverzeichnis die "SampleAppDomainManager.dll" liegen.
+
 
 
