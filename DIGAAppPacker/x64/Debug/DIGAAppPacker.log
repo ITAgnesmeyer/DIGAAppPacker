@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  DIGAAppPackerDlg.cpp
+d:\develope\com\clrhosting_src\digaapppacker\digaapppackerdlg.cpp(281): warning C4311: "reinterpret_cast": Zeigerverkürzung von "HINSTANCE" zu "int"
+d:\develope\com\clrhosting_src\digaapppacker\digaapppackerdlg.cpp(281): warning C4302: "reinterpret_cast": Verkürzung von "HINSTANCE" in "int"
+d:\develope\com\clrhosting_src\digaapppacker\digaapppackerdlg.cpp(309): warning C4244: "Initialisierung": Konvertierung von "ULONGLONG" in "UINT", möglicher Datenverlust
+  DIGAAppPacker.cpp
+  Code wird generiert...
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\x64\Debug\DIGAAppPacker.exe
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\x64\Debug\DIGAAppPacker.pdb (Full PDB)

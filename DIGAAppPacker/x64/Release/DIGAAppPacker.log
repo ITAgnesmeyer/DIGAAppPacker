@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  DIGAAppPacker.cpp
+  DIGAAppPackerDlg.cpp
+DIGAAppPackerDlg.cpp(252): warning C4311: "reinterpret_cast": Zeigerverkürzung von "HINSTANCE" zu "int"
+DIGAAppPackerDlg.cpp(252): warning C4302: "reinterpret_cast": Verkürzung von "HINSTANCE" in "int"
+DIGAAppPackerDlg.cpp(314): warning C4244: "Initialisierung": Konvertierung von "ULONGLONG" in "UINT", möglicher Datenverlust
+  Code wird generiert.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\x64\Release\DIGAAppPacker.exe
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\x64\Release\DIGAAppPacker.pdb (Full PDB)

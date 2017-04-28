@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  DIGAAppPackerDlg.cpp
+d:\develope\com\clrhosting_src\digaapppacker\digaapppackerdlg.cpp(314): warning C4244: "Initialisierung": Konvertierung von "ULONGLONG" in "UINT", möglicher Datenverlust
+  DIGAAppPacker.cpp
+  Code wird generiert...
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\Debug\DIGAAppPacker.exe
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\Debug\DIGAAppPacker.pdb (Full PDB)

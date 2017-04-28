@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  DIGAAppPacker.cpp
+  DIGAAppPackerDlg.cpp
+DIGAAppPackerDlg.cpp(314): warning C4244: "Initialisierung": Konvertierung von "ULONGLONG" in "UINT", möglicher Datenverlust
+  Code wird generiert.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\Release\DIGAAppPacker.exe
+  DIGAAppPacker.vcxproj -> D:\Develope\COM\clrhosting_src\Release\DIGAAppPacker.pdb (Full PDB)
