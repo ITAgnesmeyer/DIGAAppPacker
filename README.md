@@ -22,6 +22,9 @@ Führen Sie die Anwendung aus diesem Ordner aus.
 5) Kopieren Sie die "SampleAppDomainManager.dll" in das Ausgabeverzeichnis.
 6) Starten Sie die Anwendung.
 
+<image src="Doku/Screeshot.png"/>
+
+
 
 
 
