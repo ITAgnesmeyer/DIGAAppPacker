@@ -1,0 +1,5 @@
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\bin\Release\SampleAppDomainManager.dll
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\bin\Release\SampleAppDomainManager.pdb
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Release\SampleAppDomainManager.csprojResolveAssemblyReference.cache
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Release\SampleAppDomainManager.dll
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Release\SampleAppDomainManager.pdb

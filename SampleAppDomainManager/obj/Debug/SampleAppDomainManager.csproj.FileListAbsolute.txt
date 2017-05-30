@@ -1,0 +1,10 @@
+D:\Users\guido.local\Dowloads\clrhosting_src\clrhosting_src\Debug\SampleAppDomainManager.dll
+D:\Users\guido.local\Dowloads\clrhosting_src\clrhosting_src\Debug\SampleAppDomainManager.pdb
+D:\Users\guido.local\Dowloads\clrhosting_src\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.dll
+D:\Users\guido.local\Dowloads\clrhosting_src\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.pdb
+D:\Users\guido.local\Dowloads\clrhosting_src\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.csprojResolveAssemblyReference.cache
+D:\Develope\COM\clrhosting_src\Debug\SampleAppDomainManager.dll
+D:\Develope\COM\clrhosting_src\Debug\SampleAppDomainManager.pdb
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.dll
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.pdb
+D:\Develope\COM\clrhosting_src\SampleAppDomainManager\obj\Debug\SampleAppDomainManager.csprojResolveAssemblyReference.cache
